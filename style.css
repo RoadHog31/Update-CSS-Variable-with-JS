@@ -1,10 +1,13 @@
+/*
+misc styles, nothing to do with CSS variables
+*/
+
 body {
 
     text-align: center;
 }
 
 body{
-
 
     background:#193549;
     color: white;
